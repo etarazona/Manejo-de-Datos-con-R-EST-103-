@@ -40,7 +40,7 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:965a87a020
-## A really bad movie
+## A really bad movie (Part 2)
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
@@ -75,7 +75,7 @@ test_mc(correct = 2, feedback_msgs = c(msg_bad, msg_success, msg_bad, msg_bad))
 ```
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:e93c1b3c35
-## A really bad movie
+## A really bad movie (Part 3)
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
